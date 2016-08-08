@@ -4,7 +4,7 @@ void main()
 {
   int a,b,c;
   //Ad calculater function here.
-  //Add functionalities addition,subtraction etc.
+  
   int add(int p,int q)
   {
     return a+b;
